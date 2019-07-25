@@ -1,3 +1,5 @@
+A versão de distribuilção do software está na paste "dist".
+
 Este sistema foi concebido, projetado e desenvolvido pela equipe
 do Projeto de Iniciação Científica Voluntária Júnior (PICV-Jr) "Guia de Estilo"
 do CEFET-MG Câmpus Timóteo de agosto de 2018 a julho de 2019.
