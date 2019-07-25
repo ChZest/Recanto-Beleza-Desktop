@@ -1,0 +1,19 @@
+Este sistema foi concebido, projetado e desenvolvido pela equipe
+do Projeto de Iniciação Científica Voluntária Júnior (PICV-Jr) "Guia de Estilo"
+do CEFET-MG Câmpus Timóteo de agosto de 2018 a julho de 2019.
+
+A equipe é composta pelos estudantes:
+
+Christiano de Souza Oliveira <http://lattes.cnpq.br/0330061632763129> e
+Paula Arthuso Carvalho <http://lattes.cnpq.br/0586083831246279>,
+do Curso Técnico Integrado em Informática.
+
+Estes sob orientação dos professores:
+Deisymar Botega Tavares <http://lattes.cnpq.br/2446784976283439>,
+Marcelo de Sousa Balbino <http://lattes.cnpq.br/6890179112274993> e
+Odilon Corrêa da Silva <http://lattes.cnpq.br/4641531678975028>.
+
+A intenção deste projeto de iniciação científica é proporcionar uma melhor
+experiência de aprendizado da engenharia de usabilidade e da interação
+com sistemas pensados segundo as heurísticas indicadas por estudiosos
+na área, depois estudadas e compiladas.
